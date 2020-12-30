@@ -1,6 +1,6 @@
 <?php
 
-$router->get('contact', function() {
+$router->get('flights', function() {
 
 $title = slogan;
 $meta_title = slogan;
@@ -9,7 +9,7 @@ $meta_img = "";
 $meta_url = meta_url;
 $meta_author = meta_author;
 $meta = "1";
-$body = views."/about.php";
+$body = views."/flights.php";
 include layout;
 
 });
