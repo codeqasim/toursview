@@ -43,7 +43,7 @@ include "app/functions.php";
                 <div class="logo row">
                     <a href="<?=$root;?>">
                     <img alt="logo" src="<?=$root;?>uploads/main/logo.png" />
-                    <strong>BOOK</strong>NOW
+                    <strong>TOURS</strong>VIEW
                     </a>
                 </div>
                 <div class="bars show-m">
