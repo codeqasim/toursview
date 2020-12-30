@@ -35,7 +35,6 @@ include "app/functions.php";
 </head>
 <body>
 
-
 <header class="sticky">
     <nav>
         <div class="container flex flex-content-between row-rtl">
